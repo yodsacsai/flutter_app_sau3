@@ -40,7 +40,7 @@ class _NewAccountUIState extends State<NewAccountUI> {
                 ),
               ),
               SizedBox(
-                height: 50,
+                height: 25,
               ),
               Container(
                 child: Padding(
